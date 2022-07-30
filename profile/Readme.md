@@ -1,3 +1,3 @@
-## DELTA SJEC
+## GDSC SJEC
 
 ### Building an Inclusive Developer Group!
