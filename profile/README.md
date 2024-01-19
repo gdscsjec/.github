@@ -1,14 +1,14 @@
 ## Namaste 🙏
                             
 <p align="center">
-  <img src="./assets/image1.png" />
+  <img src="https://github.com/gdscsjec/.github/blob/main/profile/assets/image1.png" />
 </p>
                         
 ### Step into the exciting realm of GDSC SJEC as you embark on a journey through our official GitHub profile!🌐💡
 We're a vibrant and diverse group dedicated to staying on the cutting edge of technology, crafting groundbreaking solutions through the magic of collaboration and teamwork.
 
 <p align="center">
-  <img src="./assets/image2.svg" />
+  <img src="https://github.com/gdscsjec/.github/blob/main/profile/assets/image2.svg" />
 </p>
 
 
