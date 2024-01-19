@@ -1,7 +1,7 @@
 ## Namaste 🙏
                             
 <p align="center">
-  <img src="./profile/assets/image1.png" />
+  <img src="./assets/image1.png" />
 </p>
 
 
@@ -10,7 +10,7 @@
 We're a vibrant and diverse group dedicated to staying on the cutting edge of technology, crafting groundbreaking solutions through the magic of collaboration and teamwork.
 
 <p align="center">
-  <img src="./profile/assets/image2.svg" />
+  <img src="./assets/image2.svg" />
 </p>
 
 
